@@ -45,4 +45,4 @@ python ./predict.py --mode predict_and_detect --image_path <image_path>
 <p align="center"><img src="assets/detect_and_predict.jpg" width="480"\></p>
 
 **TODO**
-- Replace ResNet-152 with EfficientNet (```https://arxiv.org/abs/1905.11946```) (implemented with PyTorch in the project, not trained yet)
+- Replace ResNet-152 with EfficientNet (https://arxiv.org/abs/1905.11946) (implemented with PyTorch in the project, not trained yet)
