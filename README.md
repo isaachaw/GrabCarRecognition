@@ -10,6 +10,10 @@ Code snippets for Car Detection with YOLOv3 has been adopted from this project
 ```
 bash ./download.sh
 ```
+- Download `best.tar`, the model trained for the project from Google Drive and put under `./model/` directory
+```
+https://drive.google.com/open?id=1B4NZOXJS2lMjYjloPmY-JGIrTBL5p6Dx
+```
 
 **Prepare training data**
 - Preprocess the data
